@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-      <a href="" target="blank">
+      <a href="www.linkedin.com/in/rbll0" target="blank">
             <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin_link" height="40" width="40" />
       </a>
       <a href="https://www.instagram.com/whodatgu" target="blank">
