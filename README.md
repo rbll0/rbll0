@@ -8,15 +8,15 @@
       </a>
 </p>
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
 ###
 
 <h2 align="left">About me</h2>
 
+<p align="left">My name is Gustavo, I'm 20 years old. I am currently studying Systems Analysis and Development and am looking for an opportunity to work as a developer.</p>
+
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">👨🏻‍💻 I'm Software Developer<br>📚 FIAP<br>💻 .java,.sql,.py <br>
 
 ###
 
