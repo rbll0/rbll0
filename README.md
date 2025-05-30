@@ -2,7 +2,7 @@
 
 ### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-My name is Gustavo, I'm 20 years old. I am currently studying Systems Analysis and Development and am looking for an opportunity to work as a developer.
+My name is Gustavo, I'm 21 years old. I am currently studying Systems Analysis and Development and am looking for an opportunity to work as a developer.
 
 👨🏻‍💻 **I'm Software Developer**  
 📚 **FIAP**  
