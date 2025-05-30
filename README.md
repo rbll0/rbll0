@@ -13,14 +13,7 @@ My name is Gustavo, I'm 20 years old. I am currently studying Systems Analysis a
 ## I code with
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img align="center" alt="rbll0-java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="rbll0-spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="rbll0-nextjs" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-  <img align="center" alt="rbll0-csharp" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="rbll0-nodejs" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="rbll0-azure" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="rbll0-oracle" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img align="center" alt="rbll0-mysql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,mongodb,docker,firebase,figma,materialui,postgres&amp;perline=10">
 </div>
 
 
