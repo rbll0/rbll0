@@ -6,7 +6,6 @@ My name is Gustavo, I'm 20 years old. I am currently studying Systems Analysis a
 
 👨🏻‍💻 **I'm Software Developer**  
 📚 **FIAP**  
-💻 **.java, .sql, .py**
 
 
 
