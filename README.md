@@ -51,7 +51,3 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="GitHub"/>
   </a>
 </p>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
-</p>
