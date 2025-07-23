@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rbll0" target="_blank" title="GitHub">
+  <a href="https://www.instagram.com/whodatgu/" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="GitHub"/>
   </a>
 </p>
