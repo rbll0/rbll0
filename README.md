@@ -9,7 +9,7 @@
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 
 - 🎓 Graduated in **Systems Analysis and Development (FIAP)**  
-- 👨‍💻 Full Stack Developer evolving into **Software Engineering**  
+- 👨‍💻 Backend Developer evolving into **Software Engineering**  
 - 🧠 Strong focus on **problem solving, data structures and algorithms**  
 - 🚀 Currently improving my skills with **LeetCode and CS fundamentals**  
 - 🌱 I believe mastering fundamentals is the key to becoming a great developer
