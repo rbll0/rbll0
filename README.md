@@ -18,17 +18,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,spring,postgres,docker&perline=5">
+        <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,spring,mongo,postgres,docker&perline=5">
   </a>
 </p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbll0&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbll0&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
-
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
 
