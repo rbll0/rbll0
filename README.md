@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gustavo Rabelo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Software+Developer;Frontend+Engineer+in+Progress;React+%7C+TypeScript+%7C+Next.js" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=380&lines=Backend+Developer;Software+Engineer+in+Progress;Problem+Solving+%26+Algorithms" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -9,23 +9,18 @@
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 
 - 🎓 Graduated in **Systems Analysis and Development (FIAP)**  
-- 👨‍💻 **Frontend Engineer** focused on building modern, scalable, and accessible web applications**  
-- 🧠 Strong experience with **React, Next.js, TypeScript, and modern JavaScript**  
-- 🚀 Solid foundation in **software engineering fundamentals, problem solving, and data structures**  
-- 🌱 I believe great user experiences are built on strong fundamentals and clean, thoughtful code
+- 👨‍💻 Full Stack Developer evolving into **Software Engineering**  
+- 🧠 Strong focus on **problem solving, data structures and algorithms**  
+- 🚀 Currently improving my skills with **LeetCode and CS fundamentals**  
+- 🌱 I believe mastering fundamentals is the key to becoming a great developer
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,nodejs,git,tailwind,jest&perline=5">
+        <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,mongodb,postgres,docker&perline=5">
   </a>
 </p>
-
-### Also familiar with:
-- REST APIs and backend collaboration
-- SQL & NoSQL databases
-- Version control, code reviews, and agile workflows
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
