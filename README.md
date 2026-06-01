@@ -7,7 +7,7 @@
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 
 - 🎓 Graduated in Systems Analysis and Development (FIAP)  
-- 👨‍💻 Frontend Developer @Econverse focusing on React and modern web technologies  
+- 👨‍💻 Software Developer @Econverse focusing on React and modern web technologies  
 - 🧠 Strong focus on problem solving, algorithms and clean code principles  
 - 🚀 Currently mastering React, TypeScript and frontend architecture  
 - 🌱 Building scalable and performant web applications with best practices
